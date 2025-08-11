@@ -27,5 +27,5 @@ It combines **two powerful tools** into one simple interface:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-tools-suite.git
+git clone https://github.com/haris-bit/ai-tools-suite.git
 cd ai-tools-suite
